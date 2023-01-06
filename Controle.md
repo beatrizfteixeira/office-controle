@@ -1,4 +1,7 @@
 ## Office ##
-\begin{table}[h]
 
-\end{table}
+| Empresa  | Second Header      |
+| ------------- | ------------- |
+| G        | Folha              |
+| C        | Contabilidade      |
+
