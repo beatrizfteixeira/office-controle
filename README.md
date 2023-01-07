@@ -2,7 +2,7 @@
 
 G
 
-|        G      |     FOLHA         |     RECEITA      |   BANCO  | 
+|      mês      |     FOLHA         |     RECEITA      |   BANCO  | 
 | ------------- | ----------------- |----------------- | -------- |
 |     nov/22    |         OK        |        OK        |    OK    |
 |     dez/22    |                   |        OK        |    OK    |
